@@ -2,7 +2,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" alt="Stats">
 </a>
 
-##  :loudspeaker: 介绍 Introduction
+**:loudspeaker: 介绍 Introduction**
 
 > 你好！:sparkles::sparkles::sparkles:这是我的Github主页~
 >
@@ -19,7 +19,7 @@
 * Faithful Minecraft players with a bit of skill ~ <img src="./etc/mc.ico" width="32" alt="Minecraft">
 * Weird anime lovers ~ :ghost:
 
-## 技能 Skills
+**技能 Skills**
 
 ![Java](https://img.shields.io/badge/-Java-ff69b4?stype=flat-square&logo=Java&logoColor=3366ff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?stype=flat-square&logo=Kotlin&logoColor=3366ff)
