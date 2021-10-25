@@ -8,14 +8,14 @@
 >
 > Welcome to my [blog](https://blog.novacoo.cn) ~ :sweat_drops:
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" alt="Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" alt="Stats">
 
-* ___只会摸鱼咕咕咕的菜鸡程序员~___ :stuck_out_tongue_closed_eyes:
-* ___有点实力的忠实Minecraft玩家~___ <img src="./etc/mc.ico" width="32" alt="Minecraft">
-* ___奇奇怪怪的动漫爱好者~___ :ghost:
-* ___A programmer who can only fish and coo ~___ :stuck_out_tongue_closed_eyes:
-* ___Faithful Minecraft players with a bit of skill ~___ <img src="./etc/mc.ico" width="32" alt="Minecraft">
-* ___Weird anime lovers ~___ :ghost:
+* 只会摸鱼咕咕咕的菜鸡程序员~ :stuck_out_tongue_closed_eyes:
+* 有点实力的忠实Minecraft玩家~ <img src="./etc/mc.ico" width="32" alt="Minecraft">
+* 奇奇怪怪的动漫爱好者~___ :ghost:
+* A programmer who can only fish and coo ~ :stuck_out_tongue_closed_eyes:
+* Faithful Minecraft players with a bit of skill ~ <img src="./etc/mc.ico" width="32" alt="Minecraft">
+* Weird anime lovers ~ :ghost:
 
 ## 技能 Skills
 
