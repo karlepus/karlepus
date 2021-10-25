@@ -12,12 +12,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" alt="Stats">
 </a>
 
-- ___只会摸鱼咕咕咕的菜鸡程序员~**___ :stuck_out_tongue_closed_eyes:
-- ___有点实力的忠实Minecraft玩家~___ <img src="./etc/mc.ico" width="32" alt="Minecraft">
-- ___奇奇怪怪的动漫爱好者~___ :ghost:
-- ___A programmer who can only fish and coo ~___ :stuck_out_tongue_closed_eyes:
-- ___Faithful Minecraft players with a bit of skill ~___ <img src="./etc/mc.ico" width="32" alt="Minecraft">
-- ___Weird anime lovers ~___ :ghost:
+* ___只会摸鱼咕咕咕的菜鸡程序员~**___ :stuck_out_tongue_closed_eyes:
+* ___有点实力的忠实Minecraft玩家~___ <img src="./etc/mc.ico" width="32" alt="Minecraft">
+* ___奇奇怪怪的动漫爱好者~___ :ghost:
+* ___A programmer who can only fish and coo ~___ :stuck_out_tongue_closed_eyes:
+* ___Faithful Minecraft players with a bit of skill ~___ <img src="./etc/mc.ico" width="32" alt="Minecraft">
+* ___Weird anime lovers ~___ :ghost:
 
 ## 技能 Skills
 
