@@ -1,7 +1,3 @@
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical">
-</a>
-
 ##  :loudspeaker: 介绍 Introduction
 
 > 你好！:sparkles::sparkles::sparkles:这是我的Github主页~
@@ -11,6 +7,10 @@
 > Hello! :sparkles::sparkles::sparkles: This my Github homepage ~
 >
 > Welcome to my [blog](https://blog.novacoo.cn) ~ :sweat_drops:
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical">
+</a>
 
 - _**只会摸鱼咕咕咕的菜鸡程序员~**_ :stuck_out_tongue_closed_eyes:
 - _**有点实力的忠实Minecraft玩家~ **_ <img src="./etc/mc.ico" width="32" alt="Minecraft">
