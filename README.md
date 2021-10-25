@@ -1,4 +1,6 @@
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical"></a>
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical">
+</a>
 
 ##  :loudspeaker: 介绍 Introduction
 
