@@ -8,7 +8,9 @@
 >
 > Welcome to my [blog](https://blog.novacoo.cn) ~ :sweat_drops:
 
-<img href="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" align="right" alt="novacoo gitub stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" align="right" alt="novacoo gitub stats">
+</a>
 
 > * 只会摸鱼咕咕咕的菜鸡程序员~ :stuck_out_tongue_closed_eyes:
 > * 有点实力的忠实Minecraft玩家~ <img src="./etc/mc.ico" width="16" alt="Minecraft">
