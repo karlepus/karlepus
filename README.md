@@ -12,7 +12,7 @@
 >
 > * 只会摸鱼咕咕咕的菜鸡程序员~ :stuck_out_tongue_closed_eyes:
 > * 有点实力的忠实Minecraft玩家~ <img src="./etc/mc.ico" width="16" alt="Minecraft">
-> * 奇奇怪怪的动漫爱好者~___ :ghost:
+> * 奇奇怪怪的动漫爱好者~ :ghost:
 > * A programmer who can only fish and coo ~ :stuck_out_tongue_closed_eyes:
 > * Faithful Minecraft players with a bit of skill ~ <img src="./etc/mc.ico" width="16" alt="Minecraft">
 > * Weird anime lovers ~ :ghost:
