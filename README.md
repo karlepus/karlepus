@@ -7,9 +7,11 @@
 > Hello! :sparkles::sparkles::sparkles: This my Github homepage ~
 >
 > Welcome to my [blog](https://blog.novacoo.cn) ~ :sweat_drops:
->
-> [![novacoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
->
+
+<div align="right">
+  <img href="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical">
+</div>
+
 > * 只会摸鱼咕咕咕的菜鸡程序员~ :stuck_out_tongue_closed_eyes:
 > * 有点实力的忠实Minecraft玩家~ <img src="./etc/mc.ico" width="16" alt="Minecraft">
 > * 奇奇怪怪的动漫爱好者~ :ghost:
