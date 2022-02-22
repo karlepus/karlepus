@@ -1,11 +1,9 @@
 **:loudspeaker: Introduction**
 
 > Hello! :sparkles::sparkles::sparkles: This my Github homepage ~
->
-> Welcome to my [blog](https://blog.novacoo.cn) ~ :sweat_drops:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=novacoo&show_icons=true&theme=radical" align="right" alt="novacoo gitub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=karlepus&show_icons=true&theme=radical" align="right" alt="KarLepus Gitub Stats">
 </a>
 
 > * A programmer who can only fish and coo ~ :stuck_out_tongue_closed_eyes:
