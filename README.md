@@ -14,5 +14,3 @@
 
 ![Java](https://img.shields.io/badge/-Java-ff69b4?stype=flat-square&logo=Java&logoColor=3366ff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?stype=flat-square&logo=Kotlin&logoColor=3366ff)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=karlepus.karlepus.readme)
